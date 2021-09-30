@@ -1,4 +1,4 @@
-# Paper 2.5D Game - Collabration Project - Work in Progress
+# Paper 2.5D Game - Collaboration Project - Work in Progress
 
 ## Collaborators:
 
@@ -13,6 +13,10 @@ Ryan Goodreds (Grahpic Designer) - Art Portfolio: https://rtgdesigns.myportfolio
 
 ## References
 - UE4 Tutorial: Paper2D Character (2.5D Top-Down RPG) https://www.youtube.com/watch?v=wfEVPVlAPD4
+
+## Unreal Engine 4.26.2
+- Download Unreal Engine Here: https://www.unrealengine.com/en-US/download. Version required is 4.26.2
+- Run Unreal Project by 
 
 
 
