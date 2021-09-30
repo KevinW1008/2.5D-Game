@@ -19,8 +19,7 @@ Ryan Goodreds (Grahpic Designer) - Art Portfolio: https://rtgdesigns.myportfolio
 - Run Unreal Project by starting <code>/2.5D-Game/GameTest.uproject</code>
 
 ## Images of Progress
-
-
+..To be added
 
 
 
