@@ -16,7 +16,7 @@ Ryan Goodreds (Grahpic Designer) - Art Portfolio: https://rtgdesigns.myportfolio
 
 ## Unreal Engine 4.26.2
 - Download Unreal Engine Here: https://www.unrealengine.com/en-US/download. Version required is 4.26.2
-- Run Unreal Project by 
+- Run Unreal Project by starting <code>/2.5D-Game/GameTest.uproject</code>
 
 
 
